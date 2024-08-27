@@ -19,8 +19,8 @@ To use the Text Analyzer Tool, you'll need to have Python installed. It is recom
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/owais-kamdar/text-analyzer-tool.git
-cd text-analyzer-tool
+git clone https://github.com/owais-kamdar/text-analyze-tool.git
+cd text-analyze-tool
 ```
 
 ### Step 2: Install the Required Dependencies
